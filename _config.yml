@@ -1,0 +1,14 @@
+layout_spectrum: 0.7972187073901296
+typography_spectrum: 0.8401277859229594
+color:
+  brandStrength: 0.5542242352385074
+  lightness: 0.718159555690363
+  saturation: 0.48545319540426135
+  rhythmicContrast: 0.7369447527453303
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: lsatsenseitest
